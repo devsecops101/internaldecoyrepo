@@ -4,7 +4,7 @@ import urllib2
 
 URL = "www.mypersonalhoneypotclickheretobefound.com"
 U = "backups"
-P = "TSNJYWEJHB&hkjshfjg3rhjfsnafhjtg&U@e83eh87Jhhd6"
+P = "uedfGDFwybg25fs6fkKI3jddgfHJWuJAVD2yheu2i3SGWMCKk"
 
 
 
